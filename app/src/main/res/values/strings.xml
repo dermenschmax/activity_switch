@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ActivitySwitch</string>
+
+    <string name="first_activity_heading">First Activity</string>
+    <string name="button_activity1">Switch to second Activity</string>
+
+    <string name="second_activity_heading">Second Activity</string>
+    <string name="button_activity2">Switch to first Activity</string>
+    <string name="title_second_activity">This is the second Activity</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
